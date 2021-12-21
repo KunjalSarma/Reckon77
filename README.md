@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **reckonmazumdar12@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/reckon-mazumdar-49b8a7193/](https://www.linkedin.com/in/reckon-mazumdar-49b8a7193/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/reckon-mazumdar/](https://www.linkedin.com/in/reckon-mazumdar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/reckon-mazumdar-49b8a7193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reckon-mazumdar-49b8a7193/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reckon-mazumdar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reckon-mazumdar-49b8a7193/" height="30" width="40" /></a>
 <a href="https://instagram.com/reckon77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reckon77" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/reckon77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="reckon77" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/reckonmazumdar12/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="reckonmazumdar12/practice" height="30" width="40" /></a>
